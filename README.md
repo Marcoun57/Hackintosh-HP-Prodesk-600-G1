@@ -1,8 +1,8 @@
-# Hackintosh HP Prodesk 600 G1 TWR / MacPro 7.1 for Sequoia 15.0
+# Hackintosh HP Prodesk 600 G1 TWR / MacPro 7.1 for Sequoia 15.0.1
 
 <img src="https://dbi.ma/wp-content/uploads/2020/08/5.jpg" width=50% height=50%>
 
-
+Successfully installed macOS Sequoia 15.0.1 (24A348) on my HP Prodesk 600 G1 with Opencore 1.0.2.
 
 ## Specs:
 
