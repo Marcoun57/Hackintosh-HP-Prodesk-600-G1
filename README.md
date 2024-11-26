@@ -1,4 +1,4 @@
-# Hackintosh HP Prodesk 600 G1 TWR / Mac Pro 7.1 (for Sequoia)
+# Hackintosh HP Prodesk 600 G1 TWR / Mac Pro 7.1 for Sequoia 15.0
 Hackintosh on HP Prodesk 600 G1
 
 Specs:
