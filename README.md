@@ -16,10 +16,10 @@ Current status:
 
 Working:
 
-    Audio
-    Graphics with RX 570 (native)
-    WiFi / Blueooth Fenvi T919 (native) Airdrop, Handoff etc
-    USB
+- Audio
+- Graphics with RX 570 (native)
+- WiFi / Blueooth Fenvi T919 (native) Airdrop, Handoff etc
+- USB
 
 
 IMPORTANT
