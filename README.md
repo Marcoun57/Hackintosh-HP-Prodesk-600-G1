@@ -26,6 +26,13 @@ Working:
 - WiFi / Bluetooth Fenvi T919 (native) Airdrop, Handoff etc
 - USB
 
+Bios setup:
+
+- Reset bios by defaults
+- Storage = SATA Emulation > AHCI
+- Integreted Video = Disabled (For Ventura 13, Sonoma 14, Sequoia 15)
+
+
 
 ## IMPORTANT
 
