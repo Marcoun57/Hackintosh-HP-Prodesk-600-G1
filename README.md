@@ -14,7 +14,7 @@ Successfully installed macOS Sequoia 15.0.1 (24A348) on my HP Prodesk 600 G1 wit
 | RAM  | 16GB DDR3 1600MHz  |
 | Storage  | Crucial 250GB SSD  |
 | Audio  | Realtek ALC221 - layout 11  |
-| Wifi  | Fenvi T919  |
+| Wifi / BT  | Fenvi T919  |
 
 
 ## Current status:
@@ -23,7 +23,7 @@ Working:
 
 - Audio
 - Graphics with RX 570 (native)
-- WiFi / Blueooth Fenvi T919 (native) Airdrop, Handoff etc
+- WiFi / Bluetooth Fenvi T919 (native) Airdrop, Handoff etc
 - USB
 
 
