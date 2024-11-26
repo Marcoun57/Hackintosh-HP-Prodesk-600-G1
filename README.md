@@ -28,9 +28,9 @@ Working:
 
 Bios setup:
 
-- Reset bios by defaults
-- Storage = SATA Emulation > AHCI
-- Integreted Video = Disabled (For Ventura 13, Sonoma 14, Sequoia 15)
+1. Reset bios by defaults
+2. Storage = SATA Emulation > AHCI
+3. Integreted Video = Disabled (For Ventura 13, Sonoma 14, Sequoia 15)
 
 
 
