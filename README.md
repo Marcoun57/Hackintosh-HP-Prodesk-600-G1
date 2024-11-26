@@ -1,11 +1,10 @@
 # Hackintosh HP Prodesk 600 G1 TWR / Mac Pro 7.1 for Sequoia 15.0
-Hackintosh on HP Prodesk 600 G1
 
 <img src="https://dbi.ma/wp-content/uploads/2020/08/5.jpg" width=50% height=50%>
 
 
 
-# Specs:
+## Specs:
 
 | Component  | Model |
 | ------------- | ------------- |
