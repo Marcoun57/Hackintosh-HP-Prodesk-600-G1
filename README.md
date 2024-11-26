@@ -1,18 +1,20 @@
 # Hackintosh HP Prodesk 600 G1 TWR / Mac Pro 7.1 for Sequoia 15.0
 Hackintosh on HP Prodesk 600 G1
 
-Specs:
+# Specs:
 
-- CPU 	Intel Core i3-4160 @ 3.60 GHz 
-- Graphics  Intel HD 4600 / RX 570 4GB
-- RAM  16GB DDR3 1600MHz
-- Storage 	Crucial 250GB SSD
-- Audio 	Realtek ALC221 - layout 11
-- Ethernet 	Intel I217LM Gigabit Ethernet
-- Wifi / Bluetooth  Fenvi T919
-- OS 	macOS Sequoia
+| Component  | Model |
+| ------------- | ------------- |
+| CPU  | Intel® Core™ i3-4160 Processor @ 3.60 GHz  |
+| Chipset  | Intel® B85  |
+| Graphics  | Intel® HD Graphics 4400 / RX 570 4GB  |
+| RAM  | 16GB DDR3 1600MHz  |
+| Storage  | Crucial 250GB SSD  |
+| Audio  | Realtek ALC221 - layout 11  |
+| Wifi  | Fenvi T919  |
 
-Current status:
+
+# Current status:
 
 Working:
 
@@ -22,6 +24,6 @@ Working:
 - USB
 
 
-IMPORTANT
+# IMPORTANT
 
 Please generate a new SMBIOS (Mac Pro 7.1) as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
