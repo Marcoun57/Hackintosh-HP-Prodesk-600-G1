@@ -1,7 +1,7 @@
 # Hackintosh HP Prodesk 600 G1 TWR / Mac Pro 7.1 for Sequoia 15.0
 Hackintosh on HP Prodesk 600 G1
 
-![5-3032918571](https://github.com/user-attachments/assets/18456702-d828-417c-8065-a6c0e6bbc167)
+![5-3032918571](https://github.com/user-attachments/assets/18456702-d828-417c-8065-a6c0e6bbc167 = 250x)
 
 
 # Specs:
