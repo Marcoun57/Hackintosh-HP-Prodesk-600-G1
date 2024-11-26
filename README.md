@@ -19,14 +19,14 @@ Successfully installed macOS Sequoia 15.0.1 (24A348) on my HP Prodesk 600 G1 wit
 
 ## Current status:
 
-Working:
+### Working:
 
 - Audio
 - Graphics with RX 570 (native)
 - WiFi / Bluetooth Fenvi T919 (native) Airdrop, Handoff etc
 - USB
 
-Bios setup:
+### Bios setup:
 
 1. Reset bios by defaults
 2. Storage = SATA Emulation > AHCI
