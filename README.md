@@ -17,7 +17,7 @@
 | Wifi  | Fenvi T919  |
 
 
-# Current status:
+## Current status:
 
 Working:
 
@@ -27,6 +27,6 @@ Working:
 - USB
 
 
-# IMPORTANT
+## IMPORTANT
 
 Please generate a new SMBIOS (Mac Pro 7.1) as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
