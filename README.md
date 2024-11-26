@@ -12,7 +12,7 @@ Successfully installed macOS Sequoia 15.0.1 (24A348) on my HP Prodesk 600 G1 wit
 | Architecture  | Haswell  |
 | Graphics  | Intel® HD Graphics 4400 / RX 570 4GB  |
 | RAM  | 16GB DDR3 1600MHz  |
-| Storage  | Crucial 250GB SSD  |
+| Storage  | Crucial 500GB SSD  |
 | Audio  | Realtek ALC221 - layout 11  |
 | Wifi / BT  | Fenvi T919  |
 
