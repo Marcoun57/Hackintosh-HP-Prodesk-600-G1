@@ -1,6 +1,6 @@
 # Hackintosh HP Prodesk 600 G1 TWR / Sequoia 15.0.1 / OpenCore 1.0.2
 
-<img src="[https://github.com/Marcoun57/Hackintosh-HP-Prodesk-600-G1/blob/main/Prodesk%20picture.jpg]" width=50% height=50%>
+<img src="https://github.com/Marcoun57/Hackintosh-HP-Prodesk-600-G1/blob/main/Prodesk%20picture.jpg" width=50% height=50%>
 
 Successfully installed macOS Sequoia 15.0.1 (24A348) on my HP Prodesk 600 G1 with Opencore 1.0.2.
 
