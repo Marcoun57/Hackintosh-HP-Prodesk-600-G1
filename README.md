@@ -9,7 +9,7 @@ Successfully installed macOS Sequoia 15.0.1 (24A348) on my HP Prodesk 600 G1 wit
 | Component  | Model |
 | ------------- | ------------- |
 | CPU  | Intel® Core™ i3-4160 Processor @ 3.60 GHz  |
-| Chipset  | Intel® B85  |
+| Architecture  | Haswell  |
 | Graphics  | Intel® HD Graphics 4400 / RX 570 4GB  |
 | RAM  | 16GB DDR3 1600MHz  |
 | Storage  | Crucial 250GB SSD  |
