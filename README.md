@@ -1,4 +1,4 @@
-# Hackintosh HP Prodesk 600 G1 TWR / Mac Pro 7.1 for Sequoia 15.0
+# Hackintosh HP Prodesk 600 G1 TWR / MacPro 7.1 for Sequoia 15.0
 
 <img src="https://dbi.ma/wp-content/uploads/2020/08/5.jpg" width=50% height=50%>
 
@@ -29,4 +29,4 @@ Working:
 
 ## IMPORTANT
 
-Please generate a new SMBIOS (Mac Pro 7.1) as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
+Please generate a new SMBIOS (MacPro 7.1) as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
