@@ -37,4 +37,5 @@ Bios setup:
 ## IMPORTANT
 
 Please generate a new SMBIOS, I use MacPro 7.1, as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
+
 Since I don't have this PC anymore, they will be no upgrade for it.
