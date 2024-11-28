@@ -36,6 +36,6 @@ Successfully installed macOS Sequoia 15.0.1 (24A348) on my HP Prodesk 600 G1 wit
 
 ## IMPORTANT
 
-Please generate a new SMBIOS, I use MacPro 7.1, as I deleted my serials... with https://github.com/corpnewt/GenSMBIOS
+Please generate a new <a href="https://github.com/corpnewt/GenSMBIOS">SMBIOS</a> , I use MacPro 7.1, as I deleted my serials...
 
 Since I don't have this PC anymore, they will be no upgrade for it.
